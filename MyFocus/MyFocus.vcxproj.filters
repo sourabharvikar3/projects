@@ -27,12 +27,21 @@
     <ClInclude Include="MyFocus.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CPomodoro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MyFocus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPomodoro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cmdParser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
